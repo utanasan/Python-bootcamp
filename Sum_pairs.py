@@ -9,6 +9,6 @@ def sum_pairs(accepted_list,num):
             return "No such pairs"
 
 
-print(sum_pairs([4,2,10,5,1], 6)) # [4,2]
-print(sum_pairs([11,20,4,2,1,5], 100)) # []
+print(sum_pairs([4,2,10,5,1], 6))
+print(sum_pairs([11,20,4,2,1,5], 100))
 
